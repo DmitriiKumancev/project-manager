@@ -1,3 +1,5 @@
-module github.com/DmitriiKumancev/project-manager
+module project-manager
 
 go 1.21.6
+
+require github.com/gorilla/mux v1.8.1
